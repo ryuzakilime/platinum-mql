@@ -1,5 +1,9 @@
 # platinum-mql
-mql5 lang easy julia using!Python fast 10000 times!!
+The Platinum language combines MQL5 and Julia programming.
+
+It’s 10,000 times faster than Python.
+
+
 
 # eruprice
 
